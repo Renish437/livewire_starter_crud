@@ -66,5 +66,5 @@ select:focus[data-flux-control] {
 } */
 
 .form-group div[role="alert"] {
-    @apply mt-1 text-sm text-red-600;
+    @apply mt-1 text-sm text-red-500;
 }
